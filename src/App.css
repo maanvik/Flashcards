@@ -1,0 +1,32 @@
+.header {
+  text-align: center;
+  margin: 20px; 
+  
+  
+}
+
+.header h1{
+  font-size: 4rem;
+  margin-bottom: 2px;
+  font-weight: bold;
+}
+
+
+body{
+  background-image: url(../images/background.jpeg);
+  opacity: 0.8;
+}
+
+
+.button-container {
+  display: flex;
+  justify-content: center; 
+  margin-top: 20px; 
+  
+}
+
+button {
+  padding: 10px 20px; 
+  cursor: pointer; 
+  background-color: grey;
+}
