@@ -21,7 +21,8 @@ body{
 .button-container {
   display: flex;
   justify-content: center; 
-  margin-top: 20px; 
+  margin: 20px 10px; 
+  gap: 10px;
   
 }
 
@@ -29,4 +30,22 @@ button {
   padding: 10px 20px; 
   cursor: pointer; 
   background-color: grey;
+}
+
+.feedback{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.feedback button {
+  padding: 2px;
+}
+
+.input-correct {
+  border: 2px solid green;
+}
+
+.input-incorrect {
+  border: 2px solid red;
 }
