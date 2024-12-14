@@ -1,31 +1,39 @@
- Web Development Project 3 - *Traffic FlashCards 2*
+## Traffic FlashCards
 
-Submitted by: **Maanvik Thodupunuri**
-
-This web app: **Using these Traffic FlashCards, users can test their knowledge on Traffic Rules**
-
-Time spent: **5** hours spent in total
-
-## Required Features
-
-The following **required** functionality is completed:
-
-- [x] **The user can enter their guess in a box before seeing the flipside of the card**
-- [x] **Clicking on a submit button shows visual feedback about whether the answer was correct or incorrect**
-- [x] **A back button is displayed on the card and can be used to return to the previous card in a set sequence**
-- [x] **A next button is displayed on the card and can be used to navigate to the next card in a set sequence**
-
-The following **optional** features are implemented:
-
-- [x] A shuffle button is used to randomize the order of the cards
-- [ ] A user's answer may be counted as correct even when it is slightly different from the target answer
-- [ ] A counter displays the user's current and longest streak of correct responses
-- [ ] A user can mark a card that they have mastered and have it removed from the pool of answers as well as added to a list of mastered cards
+**Traffic FlashCards** is an interactive web application that helps users test and improve their knowledge of traffic rules. Users can guess answers to traffic-related questions on flashcards before revealing the correct responses. With features like instant feedback and easy navigation, this app makes learning about road safety engaging and effective. Perfect for anyone preparing for a driving test or looking to refresh their traffic knowledge!
 
 
-## Video Walkthrough
+## 🚦 Traffic FlashCards: Features Overview
 
-Here's a walkthrough of implemented user stories:
+### 📝 User Interaction
+- **Interactive Guessing**
+  - Users can enter their guess in a text box before revealing the answer on the flip side of the card.
+  
+- **Instant Feedback**
+  - Clicking the submit button provides visual feedback indicating whether the answer was correct or incorrect.
+
+### 🔄 Navigation Controls
+- **Back and Next Buttons**
+  - A **Back** button allows users to return to the previous card in the sequence.
+  - A **Next** button enables users to navigate to the following card seamlessly.
+
+### 🎲 Future Enhancements
+- **Shuffle Feature**
+  - A shuffle button will be implemented to randomize the order of the cards, providing a varied learning experience.
+
+### 🌟 User Experience
+- **Smooth Navigation**
+  - Intuitive interface design ensures easy navigation through flashcards.
+  - Engaging user experience with clear visual cues and feedback.
+
+
+
+
+
+
+## 📹 Video Walkthrough
+
+Here's a walkthrough of how the **Traffic FlashCards** application works and how it can be used. This video demonstrates the interactive features, including how to enter guesses, receive feedback, and navigate through the flashcards effectively.
 
 ![](./public/TrafficFlashCards_2.gif)
 
@@ -33,12 +41,6 @@ Here's a walkthrough of implemented user stories:
 GIF created with ScreenToGif 
 
 
-## Notes
-
-Describe any challenges encountered while building the app.
-
-- Initially, page was re-rendering whenever submit button is hit and later this was fixed by using event.preventDefault() which prevent page re-rendering. 
-- Implementation of Randomize button was little challenging as it involves using and updating Multiple States and randomizing the cards data. 
 
 ## License
 
