@@ -5,23 +5,23 @@
 
 ## 🚦 Traffic FlashCards: Features Overview
 
-### 📝 User Interaction
+### User Interaction
 - **Interactive Guessing**
   - Users can enter their guess in a text box before revealing the answer on the flip side of the card.
   
 - **Instant Feedback**
   - Clicking the submit button provides visual feedback indicating whether the answer was correct or incorrect.
 
-### 🔄 Navigation Controls
+### Navigation Controls
 - **Back and Next Buttons**
   - A **Back** button allows users to return to the previous card in the sequence.
   - A **Next** button enables users to navigate to the following card seamlessly.
 
-### 🎲 Future Enhancements
+### Future Enhancements
 - **Shuffle Feature**
   - A shuffle button will be implemented to randomize the order of the cards, providing a varied learning experience.
 
-### 🌟 User Experience
+### User Experience
 - **Smooth Navigation**
   - Intuitive interface design ensures easy navigation through flashcards.
   - Engaging user experience with clear visual cues and feedback.
@@ -31,7 +31,7 @@
 
 
 
-## 📹 Video Walkthrough
+##  Video Walkthrough
 
 Here's a walkthrough of how the **Traffic FlashCards** application works and how it can be used. This video demonstrates the interactive features, including how to enter guesses, receive feedback, and navigate through the flashcards effectively.
 
